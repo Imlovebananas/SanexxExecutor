@@ -8,3 +8,6 @@ please do not say thats an useless :(
 
 ## PLEASE!!
 please say in issues whats not working, because i dont have an 2nd computer or an virtual machine to test it.
+
+
+### dont worry by the way, its not an virus on an roblox executor, i can send you the code any time.
