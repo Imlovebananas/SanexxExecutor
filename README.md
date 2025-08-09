@@ -11,3 +11,5 @@ please say in issues whats not working, because i dont have an 2nd computer or a
 
 
 ### dont worry by the way, its not an virus on an roblox executor, i can send you the code any time.
+
+## also, if smartscreen detected something, sorry about that, i just dont know how to sign
