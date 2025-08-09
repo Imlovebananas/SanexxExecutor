@@ -1,1 +1,4 @@
 # SanexxExecutor
+Hi!, this is my first repository in GitHub!, SanexxExecutor is an basic, but COOL python compiler.
+Some things are made by chat gpt, but all of the other is my work.
+(ignore my bad english.)
